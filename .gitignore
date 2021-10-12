@@ -2,7 +2,9 @@
  /Binaries/
  /DerivedDataCache/
  /Intermediate/
+ /Saved/
  /Build/
+ /Plugins/
  
  # Visual Studio solutions
  /*.sln
