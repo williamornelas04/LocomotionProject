@@ -1,8 +1,8 @@
  # UE4 Project directories to ignore
  Binaries/
  DerivedDataCache/
- Intermediate/
- Saved/
+ Intermediate/*
+ Saved/*
  Build/
  Plugins/
  
